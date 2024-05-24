@@ -1,13 +1,16 @@
-# Title (replace with your title)
+# Title:
+URL REGEX AND UNDERSTANDING IT'S COMPONENT.
 
-Introductory paragraph (replace this with your text)
+## Description:
+Welcome to my tutorial on how to use regular expression also known as Regex which defines a search pattern. It is a powerful tool that helps match a pattern and text processing task.This tutorial will dive into how to understand the characterristics of a URL parttern and how this parttern help developers validate if a user have entered the right URL pattern.
 
-## Summary
+## Summary:
+You will learn the pattern of a URL regex pattern aligned to javescript language. Thought the tutorial have noting musch to do with coding but ut is tailored to developers using the language stated. 
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
 ## Table of Contents
-
+- [TDecription](#description)
+- [Sunnary](#summary)
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
 - [OR Operator](#or-operator)
@@ -21,7 +24,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
-
+/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
 ### Anchors
 
 ### Quantifiers
