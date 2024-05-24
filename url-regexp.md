@@ -136,6 +136,8 @@ Non-word boundary `(\B)` -  this is a position where a word character is followe
 In summary , putting all this component together will help structure
 
 ### Back-references
+https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
+https://regex101.com/
 
 ### Look-ahead and Look-behind
 
