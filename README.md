@@ -21,6 +21,15 @@ WHEN you reach the end of the tutorial.
 THEN you find a section about the author and a link to the author’s GitHub profile.
 
 
+
+![alt text](<Screenshot (2049).png>)
+
+![alt text](<Screenshot (2050).png>)
+
+![alt text](<Screenshot (2051).png>)
+![alt text](<Screenshot (2052).png>)
+
+
 github Gist URL: https://gist.github.com/Reynoldscode/71f846872b8da3e4a6b53a99a9f1ac69
 
 giturl : https://github.com/Reynoldscode/regex-Regular-Expression
