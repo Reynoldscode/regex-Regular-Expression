@@ -142,12 +142,22 @@ https://regex101.com/
 ### Look-ahead and Look-behind
 
 ## Author
+By: Reynolds Addy
 
 **GitHub-Gist Link:**
-[Deployed GitHub-Gist Link: Click Here]
+[Deployed GitHub-Gist Link: Click Here]https://gist.github.com/Reynoldscode/94fa28501da39eef79fb3225508baa4f
 
-© 2023 [Thomas Calle]https://github.com/Reynoldscode.
+© 2023 [Reynolds Addy]https://github.com/Reynoldscode.
 
 **GitHub Repository:**
 [GitHub Repository: Click Here]https://github.com/Reynoldscode/regex-Regular-Expression
 
+
+screenshot
+
+![alt text](<Screenshot (2049).png>)
+
+![alt text](<Screenshot (2050).png>)
+
+![alt text](<Screenshot (2051).png>)
+![alt text](<Screenshot (2052).png>)
